@@ -1,6 +1,6 @@
 ## Olá! Me chamo Ana Luiza Dias 💖
 
-- 🎓 Graduanda em Desenvolvimento de Software na Fatec Itaquera.
+- 🎓 Graduanda em Desenvolvimento de Software Multiplataforma na Fatec Itaquera.
 - 👧🏻 Apaixonada por tecnologia desde criança!
 - 🎮 Nas horas vagas, amo jogar video-game!
 - 🐱 Sou mãe de 3 gatinhas <3
