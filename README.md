@@ -1,5 +1,6 @@
 ## Olá! Me chamo Ana Luiza Dias 💖
 
+- ♨️ Estagiária de Ciência de Dados no Banco Santander 
 - 🎓 Graduanda em Desenvolvimento de Software Multiplataforma na Fatec Itaquera.
 - 👧🏻 Apaixonada por tecnologia desde criança!
 - 🎮 Nas horas vagas, amo jogar video-game!
