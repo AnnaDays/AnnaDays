@@ -60,7 +60,7 @@
   <a href="mailto:analuizadias389@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://linktr.ee/anna_dayss" target="_blank">
+  <a href="https://linktr.ee/annadayss" target="_blank">
     <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
   </a>
 </div>
